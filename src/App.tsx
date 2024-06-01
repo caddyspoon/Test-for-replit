@@ -3,7 +3,7 @@ import './App.css'
 export default function App() {
   return (
     <main>
-      React ⚛️ + Vite ⚡ + Replit 🌀
+      <h1>New Temp App For React with typescript on replit.</h1>
     </main>
   )
 }
